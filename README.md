@@ -20,34 +20,34 @@ This line chart shows how person's net worth during the period under considerati
 
 
 ### 3. Comparison of a dynamic of a net worth among various person
-On this line chart it is possible to choose two or more individuals for comparison
+On this line chart it is possible to choose two or more individuals for comparison of a net worth
 * Text labels combine the current value, percentage difference to the previous period, and absolute deviation from the previous period in one line. When a metric is declining, the text is colored red with a marker (↓), when it is increasing, it is colored green (↑), and when there is no change, it is colored  gray.
 ![comparison of a dynamic of a net worth](images/comparison_of_a_dynamic_of_a_net_worth.gif)
 
 
 ### 4. Number of entrances in Forbes list
-This  pie chart demonstrates
+This  pie chart demonstrates how many times/years was each billionaire appeared in annual top wealth list 
 ![Number of entrancies in Forbes list](images/Number_of_entrancies_in_Forbes_list.png)
 
 
 ### 5. Total net worth amount all billionaires by year
-This line chart
+This line chart shows how has the total amount of capital owned by individuals with a net worth of over $1 billion changed by year
 * Text labels combine the current value, percentage difference to the previous period, and absolute deviation from the previous period in one line. When a metric is declining, the text is colored red with a marker (↓), when it is increasing, it is colored green (↑), and when there is no change, it is colored  gray.
 ![Total net worth amount all billionairs by year](images/Total_net_worth_amount_all_billionairs_by_year.png)
 
 
 ### 6. Total amount of billionaires by year
-This  bar chart
+This  bar chart the number of people on the list each year
 ![Total amount of billionairs by year](images/Total_amount_of_billionairs_by_year.png)
 
 
 ### 7. % of contribution of top 15 billionaires to the total annual net worth amount by year
-This  bar chart
+This  bar chart indicates how top 15 individuals by net worth form total annual net worth amount by year
 ![% of contribution of top 15 billionairs to the total annual net worth amount by year](images/percent_of_contribution_of_top_15_billionairs_to_the_total_annual_net_worth_amount_by_year.png)
 
 
 ### 8. Proportion of billionaires by number of children.png
-This  area chart
+This  area chart indicates the absolute number of individuals included in each group by the number of children and the share of this group in the overall structure
 ![Proportion of billionaires by number of children](images/proportion_of_billionaires_by_number_of_children.png)
 
 
