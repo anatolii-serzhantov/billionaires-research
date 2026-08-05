@@ -9,7 +9,7 @@
 ## Visualisations
 
 ### 1. Total amount of unique billionairs presented in Forbes list between 2021 and 2026
-![Total amount of unique billionairs presented in Forbes list](images/Total_amount_of_unique_billionairs_presented_in_Forbes_list.gif)
+![Total amount of unique billionairs presented in Forbes list](images/Total_amount_of_unique_billionairs_presented_in_Forbes_list.png)
 
 ### 2. Dynamic of a net worth of selected person
 ![Dynamic of a net worth of selected person](images/dynamic_of_a_net_worth.gif)
@@ -22,23 +22,23 @@
 **Descripion:** На этом графике представлена динамика выручки по месяцам. Главный инсайт: в декабре 
 
 ### 4. Number of entrancies in Forbes list
-![Number of entrancies in Forbes list](images/Number_of_entrancies_in_Forbes_list.gif)
+![Number of entrancies in Forbes list](images/Number_of_entrancies_in_Forbes_list.png)
 
 **Descripion:** На этом графике представлена динамика выручки по месяцам. Главный инсайт: в декабре 
 
 ### 5. Total net worth amount all billionairs by year
-![Total net worth amount all billionairs by year](images/Total_net_worth_amount_all_billionairs_by_year.gif)
+![Total net worth amount all billionairs by year](images/Total_net_worth_amount_all_billionairs_by_year.png)
 
 **Descripion:** На этом графике представлена динамика выручки по месяцам. Главный инсайт: в декабре 
 
 
 ### 6. Total amount of billionairs by year
-![Total amount of billionairs by year](images/Total_amount_of_billionairs_by_year.gif)
+![Total amount of billionairs by year](images/Total_amount_of_billionairs_by_year.png)
 
 **Descripion:** На этом графике представлена динамика выручки по месяцам. Главный инсайт: в декабре 
 
 ### 7. % of contribution of top 15 billionairs to the total annual net worth amount by year
-![% of contribution of top 15 billionairs to the total annual net worth amount by year](images/percent_of_contribution_of_top_15_billionairs_to_the_total_annual_net_worth_amount_by_year.gif)
+![% of contribution of top 15 billionairs to the total annual net worth amount by year](images/percent_of_contribution_of_top_15_billionairs_to_the_total_annual_net_worth_amount_by_year.png)
 
 **Descripion:** На этом графике представлена динамика выручки по месяцам. Главный инсайт: в декабре 
 
@@ -48,7 +48,7 @@
 
 **Descripion:** На этом графике представлена динамика выручки по месяцам. Главный инсайт: в декабре 
 
-### 9. Proportion of billionaires by number of children
+### 9. Number of children
 ![Number of children](images/number_of_children.gif)
 
 **Descripion:** На этом графике представлена динамика выручки по месяцам. Главный инсайт: в декабре 
