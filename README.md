@@ -12,3 +12,11 @@
 ![Dynamic of a net worth of selected person](images/dynamic_of_a_net_worth.gif)
 
 **Descripion:** На этом графике представлена динамика выручки по месяцам. Главный инсайт: в декабре наблюдается пик продаж, который превышает средние показатели на 40%. Для построения использовалась столбчатая диаграмма...
+
+
+comparison of a dynamic of a net worth.gif
+
+### 2. Comparison of a dynamic of a net worth
+![comparison of a dynamic of a net worth](images/comparison_of_a_dynamic_of_a_net_worth.gif)
+
+**Descripion:** На этом графике представлена динамика выручки по месяцам. Главный инсайт: в декабре 
