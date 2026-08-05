@@ -11,12 +11,14 @@
 ### 1. Total amount of unique billionairs presented in Forbes list between 2021 and 2026
 ![Total amount of unique billionairs presented in Forbes list](images/Total_amount_of_unique_billionairs_presented_in_Forbes_list.png)
 
+On this KPI card indicated 
+
 ### 2. Dynamic of a net worth of selected person
 ![Dynamic of a net worth of selected person](images/dynamic_of_a_net_worth.gif)
 
 **Descripion:** На этом графике представлена динамика выручки по месяцам. Главный инсайт: в декабре 
 
-### 3. Comparison of a dynamic of a net worth
+### 3. Comparison of a dynamic of a net worth among various person
 ![comparison of a dynamic of a net worth](images/comparison_of_a_dynamic_of_a_net_worth.gif)
 
 **Descripion:** На этом графике представлена динамика выручки по месяцам. Главный инсайт: в декабре 
