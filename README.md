@@ -15,15 +15,13 @@ On this KPI card indicated sum of all individuals
 
 ### 2. Dynamic of a net worth of selected person
 This line chart shows how person's net worth during the period under consideration
-* Text labels combine the current value, percentage difference to the previous period, and absolute deviation from the previous period in one line.
-* Automatic color coding of metric has been implemented. When a metric is declining, the text is colored red with a marker (↓), when it is increasing, it is colored green (↑), and when there is no change, it is colored  gray.
+* Text labels combine the current value, percentage difference to the previous period, and absolute deviation from the previous period in one line. When a metric is declining, the text is colored red with a marker (↓), when it is increasing, it is colored green (↑), and when there is no change, it is colored  gray.
 ![Dynamic of a net worth of selected person](images/dynamic_of_a_net_worth.gif)
 
 
 ### 3. Comparison of a dynamic of a net worth among various person
 On this line chart it is possible to choose two or more individuals for comparison
-* Text labels combine the current value, percentage difference to the previous period, and absolute deviation from the previous period in one line.
-* Automatic color coding of metric has been implemented. When a metric is declining, the text is colored red with a marker (↓), when it is increasing, it is colored green (↑), and when there is no change, it is colored  gray.
+* Text labels combine the current value, percentage difference to the previous period, and absolute deviation from the previous period in one line. When a metric is declining, the text is colored red with a marker (↓), when it is increasing, it is colored green (↑), and when there is no change, it is colored  gray.
 ![comparison of a dynamic of a net worth](images/comparison_of_a_dynamic_of_a_net_worth.gif)
 
 
@@ -34,8 +32,7 @@ This  pie chart demonstrates
 
 ### 5. Total net worth amount all billionaires by year
 This line chart
-* Text labels combine the current value, percentage difference to the previous period, and absolute deviation from the previous period in one line.
-* Automatic color coding of metric has been implemented. When a metric is declining, the text is colored red with a marker (↓), when it is increasing, it is colored green (↑), and when there is no change, it is colored  gray.
+* Text labels combine the current value, percentage difference to the previous period, and absolute deviation from the previous period in one line. When a metric is declining, the text is colored red with a marker (↓), when it is increasing, it is colored green (↑), and when there is no change, it is colored  gray.
 ![Total net worth amount all billionairs by year](images/Total_net_worth_amount_all_billionairs_by_year.png)
 
 
