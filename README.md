@@ -23,9 +23,9 @@ On this line chart it is possible to choose two or more individuals for comparis
 * Text labels combine the current value, percentage difference to the previous period, and absolute deviation from the previous period in one line. When a metric is declining, the text is colored red with a marker (↓), when it is increasing, it is colored green (↑), and when there is no change, it is colored  gray.
 ![comparison of a dynamic of a net worth](images/comparison_of_a_dynamic_of_a_net_worth.gif)
 
-### 4. Detailed information about persons included in investigation Project (media) "Who Worked for the War"
-https://war-proekt.media/spisok-oligarkhov/provider/roman-abramovich/
+### 4. Detailed information about persons included in investigation by Project (media) "Who Worked for the War"
 ![https://war-proekt.media/spisok-oligarkhov/provider/roman-abramovich/](images/war_orders.gif)
+https://war-proekt.media/spisok-oligarkhov/provider/roman-abramovich/
 
 ### 5. Number of entrances in Forbes list
 This  pie chart demonstrates how many times/years was each billionaire appeared in annual top wealth list 
