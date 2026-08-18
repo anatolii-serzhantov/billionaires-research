@@ -11,7 +11,7 @@ Only individuals whose net worth was equal to or exceeded $1 billion at the time
 
 ### 1. Total amount of unique billionaires presented in Forbes list between 2021 and 2026
 On this KPI card indicated sum of all individuals 
-![Total amount of unique billionairs presented in Forbes list](images/updated Total amount of unique billionairs presented in Forbes list.png)
+![Total amount of unique billionairs presented in Forbes list](images/total_amount.png)
 
 ### 2. Dynamic of a net worth of selected person
 This line chart shows how person's net worth during the period under consideration
