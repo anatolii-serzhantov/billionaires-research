@@ -3,7 +3,7 @@
 Data about net worth, family and marital status was parced from Russian Forbes website annual wealth list for the years starting from 2021 and ending in 2026.
 Only individuals whose net worth was equal to or exceeded $1 billion at the time of inclusion in the list were selected.
 
-**.pbix for Power BI** [Download](./billionairs_dashboard.pbix)
+**.pbix for Power BI** [Download](./billionaires_dashboard.pbix)
 
 ---
 
