@@ -24,7 +24,7 @@ On this line chart it is possible to choose two or more individuals for comparis
 ![comparison of a dynamic of a net worth](images/comparison_of_a_dynamic_of_a_net_worth.gif)
 
 ### 4. Detailed information about persons included in investigation by Project (media) "Who Worked for the War"
-![https://war-proekt.media/spisok-oligarkhov/provider/](images/war_orders.gif)
+![https://war-proekt.media/spisok-oligarkhov/provider/](images/_war_orders.gif)
 https://war-proekt.media/spisok-oligarkhov/provider/
 
 ### 5. Number of entrances in Forbes list
