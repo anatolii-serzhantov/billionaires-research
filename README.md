@@ -25,7 +25,7 @@ On this line chart it is possible to choose two or more individuals for comparis
 
 ### 4. Detailed information about persons included in investigation by Project (media) "Who Worked for the War"
 ![https://war-proekt.media/spisok-oligarkhov/provider/](images/_war_orders.gif)
-https://war-proekt.media/spisok-oligarkhov/provider/
+Intersection of databases based on Project (media) investigation and Forbes annual billionaires list
 
 ### 5. Number of entrances in Forbes list
 This  pie chart demonstrates how many times/years was each billionaire appeared in annual top wealth list 
